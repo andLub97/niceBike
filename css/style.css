@@ -13,3 +13,5 @@
 @import "./seguros/perguntas.css";
 @import "./global/footer.css";
 @import "./bicicletas/bicicletas.css";
+@import "./bicicleta/bicicleta.css";
+@import "./bicicleta/seguro.css";
